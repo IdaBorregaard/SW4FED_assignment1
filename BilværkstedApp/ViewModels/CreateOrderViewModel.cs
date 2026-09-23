@@ -1,0 +1,1 @@
+// View model for creating a new order.

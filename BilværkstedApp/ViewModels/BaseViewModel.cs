@@ -1,0 +1,1 @@
+// Base class for all view models in the application.

@@ -1,0 +1,1 @@
+// View model for the list of invoices.

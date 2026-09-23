@@ -1,0 +1,1 @@
+// Model for an invoice in the application.
